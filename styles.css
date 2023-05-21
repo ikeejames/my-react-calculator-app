@@ -65,7 +65,7 @@
 
 #clear {
     grid-area: clear;
-    background-color: tomato;
+    background-color: red;
 }
 
 #zero {
